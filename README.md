@@ -1,3 +1,7 @@
+# Casper RTL Theme
+
+This is the RTL version of default theme casper for ghost blogging platform.
+
 # Casper
 
 The default theme for [Ghost](http://github.com/tryghost/ghost/).
