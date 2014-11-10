@@ -1,0 +1,9 @@
+<div class="pagination">  
+    {{#if prev}}
+        <a class="newer-posts" href="{{page_url prev}}">الاحدث</a>
+    {{/if}}
+    <span class="page-number">صفحة {{page}} من {{pages}}</span>
+    {{#if next}}
+        <a class="older-posts" href="{{page_url next}}">الاقدم</a>
+    {{/if}}
+</div> 
